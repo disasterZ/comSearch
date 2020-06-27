@@ -1,10 +1,10 @@
 <template>
     <div class="sh">
-        <div class="input">
+        <router-link class="input" tag="div" to="/search">
             <div class="btn">
 
             </div>
-        </div>
+        </router-link>
     </div>
 </template>
 <script>
